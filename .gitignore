@@ -1,0 +1,12 @@
+﻿# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data
+data/
+models/
+
+# IDE
+.vscode/
+.idea/
